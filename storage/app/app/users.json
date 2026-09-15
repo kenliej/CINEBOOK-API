@@ -1,0 +1,17 @@
+[
+    {
+        "id": 1789174000,
+        "first_name": "Kenlie",
+        "middle_name": "",
+        "last_name": "Jugarap",
+        "age": 25,
+        "birthday": "2000-09-15",
+        "gender": "Male",
+        "phone": "09123456789",
+        "email": "kenlie@cinebook.com",
+        "password": "$2y$10$/4UCFfIXSuqHvEgXpmTf8uOMyERLytwIN5B3J9yS.FN0.6YZIu5qu",
+        "address": "Cebu City, Philippines",
+        "avatar_url": "https://kjugarap.top/cdn/projects-imgs/default.png",
+        "role": "admin"
+    }
+]
