@@ -1,0 +1,29 @@
+[
+    {
+        "id": "TX-D3A00259894F",
+        "user_email": "kenlie@cinebook.com",
+        "movie_id": "movie-1789175011-4147",
+        "movie_title": "crying movie",
+        "image": "http://localhost:8000/uploads/movies/movie-1789174974-d0dab03f.png",
+        "date": "Sep 12, 2026",
+        "time": "9:02 AM",
+        "location": "China",
+        "genres": [
+            "Crying"
+        ],
+        "ref_code": "CB-20260912010857-B20B",
+        "seats": [
+            "A1"
+        ],
+        "payment_method": "GCash",
+        "amount": 67,
+        "status": "Completed",
+        "customer_name": "Kenlie Jugarap",
+        "phone": "09641520153",
+        "gender": "Male",
+        "ticket_count": 1,
+        "created_at": "2026-09-12T01:08:54.323950Z",
+        "updated_at": "2026-09-12T01:08:57.155839Z",
+        "completed_at": "2026-09-12T01:08:57.155968Z"
+    }
+]
